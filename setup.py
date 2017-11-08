@@ -14,7 +14,7 @@ requirements = [
     'dlib>=19.5',
     'numpy',
     'scipy>=0.17.0',
-    'opencv-python',
+    #'opencv-python',
     'scikit-image',
     'enum34;python_version<"3.4"'
 ]
